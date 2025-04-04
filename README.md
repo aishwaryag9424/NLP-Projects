@@ -1,5 +1,6 @@
 # NLP-Projects
-**##Tokenization:**
+**Tokenization:**
+
 In Natural Language Processing (NLP), tokenization is the process of breaking down a text into smaller units, called tokens, which can be words, characters, or subwords, to make it easier for machines to understand and process human language. 
 Here's a more detailed explanation:
 **Purpose:**
